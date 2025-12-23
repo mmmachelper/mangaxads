@@ -1,0 +1,19 @@
+{
+  "ads_enabled": true,
+  "banner": {
+    "enabled": true,
+    "image_url": "https://example.com/banner.jpg",
+    "click_url": "https://example.com/promo"
+  },
+  "splash_ads": {
+    "enabled": true,
+    "image_url": "https://example.com/splash.jpg",
+    "click_url": "https://example.com/offer",
+    "duration": 5
+  },
+  "webview_ads": {
+    "enabled": true,
+    "visit_url": "https://example.com/ad-page",
+    "duration": 10
+  }
+}
