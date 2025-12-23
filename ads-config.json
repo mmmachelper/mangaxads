@@ -12,8 +12,12 @@
     "duration": 5
   },
   "webview_ads": {
-    "enabled": true,
-    "visit_url": "https://www.homietv.com",
-    "duration": 10
-  }
+  "enabled": true,
+  "visit_url": "https://google.com",
+  "duration": 10,
+  "auto_scroll": false,
+  "auto_click": true,
+  "auto_search": true,
+  "search_keyword": "ftube.net"
+ }
 }
