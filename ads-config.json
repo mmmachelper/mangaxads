@@ -2,18 +2,18 @@
   "ads_enabled": true,
   "banner": {
     "enabled": true,
-    "image_url": "https://example.com/banner.jpg",
+    "image_url": "https://pub-96ddbe9ee28145c2b1af79ae8bada090.r2.dev/ATA_Promote_Banner.png",
     "click_url": "https://example.com/promo"
   },
   "splash_ads": {
     "enabled": true,
-    "image_url": "https://example.com/splash.jpg",
+    "image_url": "https://pub-96ddbe9ee28145c2b1af79ae8bada090.r2.dev/Advertising_banner.png",
     "click_url": "https://example.com/offer",
     "duration": 5
   },
   "webview_ads": {
     "enabled": true,
-    "visit_url": "https://example.com/ad-page",
+    "visit_url": "https://www.homietv.com",
     "duration": 10
   }
 }
