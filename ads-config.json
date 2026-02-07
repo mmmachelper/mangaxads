@@ -12,7 +12,7 @@
     "duration": 5
   },
   "webview_ads": {
-  "enabled": true,
+  "enabled": false,
   "visit_url": "https://nocreative.xyz",
   "duration": 20,
   "auto_scroll": true,
