@@ -17,7 +17,7 @@
   "duration": 20,
   "auto_scroll": true,
   "auto_click": true,
-  "auto_search": false,
+  "auto_search": true,
   "search_keyword": "ftube.net"
  }
 }
