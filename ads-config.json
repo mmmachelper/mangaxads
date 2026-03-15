@@ -13,7 +13,7 @@
   },
   "webview_ads": {
   "enabled": true,
-  "visit_url": "https://nocreative.xyz",
+  "visit_url": "https://google.com",
   "duration": 20,
   "auto_scroll": true,
   "auto_click": true,
